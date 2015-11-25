@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="hello">Hello World, Click Me!</string>
 	<string name="app_name">Familia</string>
+	<string name="add_Relative">Adicionar Parente</string>
+	<string name="help">Ajuda</string>
+	<string name="plus">+</string>
 </resources>

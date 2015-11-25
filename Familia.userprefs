@@ -1,1 +1,30 @@
-﻿<Properties StartupItem="Familia\Familia.csproj" />
+﻿<Properties StartupItem="Familia\Familia.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_15" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Familia\lvAdapter.cs">
+    <Files>
+      <File FileName="Familia\MainActivity.cs" Line="25" Column="4" />
+      <File FileName="Familia\lvAdapter.cs" Line="34" Column="79" />
+      <File FileName="Familia\Parente.cs" Line="8" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Familia" expanded="True">
+            <Node name="Familia" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="lvAdapter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Familia AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
